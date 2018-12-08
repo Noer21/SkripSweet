@@ -1,0 +1,2 @@
+# SkripSweet
+Bismillah cepet lulus
