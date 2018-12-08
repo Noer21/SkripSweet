@@ -1,0 +1,8 @@
+
+#section-header, #section-top-bar, #section-footer, #usgscolorband, #usgstitle, #usgsfooter{
+	display:none;
+}
+
+body {
+	width:80%;
+}
